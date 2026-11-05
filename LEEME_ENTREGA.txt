@@ -1,0 +1,40 @@
+No-Show Cero
+========================================
+
+COMO USAR LA APLICACION
+-----------------------
+1. Haz doble clic en el icono "No-Show Cero" del Escritorio o del menu Inicio.
+2. Se abrira automaticamente en tu navegador (http://localhost:8603).
+3. Tus datos se guardan solo en tu ordenador. Nada sale a internet.
+
+Si cierras la pestana del navegador, la aplicacion sigue lista en segundo
+plano: vuelve a hacer doble clic en el icono y se abrira al instante.
+
+Para cerrarla del todo: menu Inicio > No-Show Cero > "Cerrar No-Show Cero".
+
+ABRIR DESDE EL MOVIL O LA TABLET
+--------------------------------
+La app muestra un boton "Movil" abajo a la derecha. Pulsalo y escanea el
+codigo QR con la camara del movil (movil y ordenador en la MISMA red WiFi).
+La app se abrira en el navegador del movil.
+
+La primera vez, Windows puede preguntar si permites el acceso: pulsa
+"Permitir acceso" (redes privadas). Si no aparece o no conecta, ejecuta una
+vez: menu Inicio > No-Show Cero > "Conectar desde el movil (una vez)"
+(pedira permiso de administrador solo para crear la regla del firewall).
+
+Nota: cualquiera en tu misma red WiFi podra abrir la app mientras este
+encendida. Usala en una red de confianza (tu casa o tu oficina).
+
+PROBLEMAS FRECUENTES
+--------------------
+- "No carga la pagina": espera 5 segundos y recarga (F5). El servidor
+  local tarda un momento en arrancar la primera vez.
+- Antivirus/SmartScreen: la aplicacion es local y no toca internet. Si
+  Windows muestra un aviso azul, pulsa "Mas informacion" y luego
+  "Ejecutar de todas formas".
+- Para desinstalar: Configuracion de Windows > Aplicaciones > No-Show Cero.
+  Tus datos se conservan al desinstalar. No se borran los datos guardados.
+
+Soporte: consulta los documentos de licencia y soporte incluidos en la
+carpeta "docs" de la instalacion.

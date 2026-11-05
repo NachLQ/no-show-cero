@@ -1,0 +1,9 @@
+{
+  "slug": "no-show-cero",
+  "sub": "client",
+  "main": "/agenda",
+  "internal": "/panel",
+  "port": 5312,
+  "apiPort": 4312,
+  "server": true
+}
